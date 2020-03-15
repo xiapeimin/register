@@ -1,0 +1,145 @@
+body{
+    background-size: cover;
+    background-image: url('https://passport.baidu.com/static/passpc-account/img/reg_bg_min.jpg');
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+button{
+    outline:none;
+}
+.box{
+    float: left;
+    width: 50%;
+}
+.box_reg{
+    position: relative;
+    padding-top: 3.5%;
+}
+.baidu{
+    font-size: 30px;
+    color: #ffffff;
+    font-weight:bold;
+    margin-top: 6%;
+    margin-left: 8%;
+}
+.tec{
+    font-size: 55px;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 28%;
+    margin-left: 25%;
+}
+.world{
+    font-size: 35px;
+    color: #ffffff;
+    margin-left: 25%;
+}
+.help{
+    font-size: 13px;
+    color: #ffffff;
+    margin-top: 34%;
+    margin-left: 8%;
+}
+span{
+    font-size: 10px;
+    color: #cccccc;
+}
+.reg{
+    width: 62%;
+    height: 640px;
+    position: absolute;
+    left: 18%;
+    border-radius: 20px;
+    background: #ffffff;
+    opacity: 0.9;
+}
+.regbox{
+    width: 62%;
+    height: 640px;
+    position: absolute;
+    left: 18%;
+    border-radius: 20px;
+}
+.wel{
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 35px;
+    margin-top: 50px;
+}
+.has{
+    color: #a3a1a1;
+    font-size: 14px;
+    margin-left: 35px;
+    margin-top: 5px;
+    margin-bottom: 80px;
+}
+.message{
+    margin-left: 35px;
+}
+.vmsg{
+    height: 40px;
+    color: red;
+    margin-left: 68px;
+    font-size: 14px;
+}
+label{
+    color: #6e6868;
+}
+input{
+    height: 35px;
+    width: 72%;
+    padding-left: 3%;
+    background: #ffffff;
+    border-radius: 4px;
+    border: 1px solid #e2dada;
+}
+#pass{
+    width: 45%;
+}
+.getpass{
+    float: right;
+    height: 37px;
+    width: 25%;
+    margin-right: 10%;
+    background: #ffffff;
+    border-radius: 3px;  
+    font-size: 13px;
+    color: #252424;
+    padding: 2%;
+    outline: none;
+    border: 1px solid #e2dada;
+}
+.regok{
+    width: 83%;
+    height: 50px;
+    border-radius: 30px;
+    color: #ffffff;
+    background: rgb(76, 76, 245);
+    margin: 0 auto;
+    text-align: center;
+    line-height: 50px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    opacity: 0.3;
+    border: none;
+    display: block;
+}
+#check{
+    width: 15px;
+    height: 15px;
+    float: left;
+}
+.read{
+    width: 65%;
+    height: 20px;
+    color: rgb(105, 104, 104);
+    margin: 0 auto;
+    line-height: 20px;
+}
+.read p{
+    font-size: 11px;
+}
+
