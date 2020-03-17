@@ -123,7 +123,9 @@ input{
     line-height: 50px;
     margin-top: 30px;
     margin-bottom: 10px;
+    padding: 0;
     opacity: 0.3;
+    outline: none;
     border: none;
     display: block;
 }
